@@ -1,9 +1,9 @@
 # 004-rock-paper-scissors
 100 Days of Code - Day 4: Rock, Paper, Scissors
 
-![sample](img/sample.PNG)
-
 Rock, Paper, Scissor Game vs. Random module
+
+![sample](img/sample.PNG)
 
 Learned:
 - Random module
